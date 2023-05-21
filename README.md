@@ -1,11 +1,11 @@
 # Curso Digital: GIT
 
-## salvando alterações no Git
-# Git push
+### salvando alterações no Git
+### Git push
 
-# Uso do comando restore
+### Uso do comando restore
 
-# alterando main para master
+### alterando main para master
 
 
 
