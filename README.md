@@ -1,10 +1,6 @@
-# comandos Git
+# Curso Digital: GIT
 
-## salvando alterações no GITT
-
-## salvando diferente
-
-# Outras formas de mostrar
+## salvando alterações no Git
 
 
 
